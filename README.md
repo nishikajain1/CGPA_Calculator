@@ -12,4 +12,5 @@ This is a gpa-cpga calculator mainly for VIT students , developed in c++ using c
             E = 5
             F = 0 ( Failed case🥲 )
 
-![image](https://github.com/nishikajain1/CGPA_Calculator/assets/114978015/d2d02101-d2d1-4278-9fad-a77e1b77f48a)
+![image](https://github.com/nishikajain1/CGPA_Calculator/assets/114978015/e65af591-f3fb-4c47-abbf-9bc29c5ce1a2)
+
